@@ -1,0 +1,16 @@
+/* Component1.css */
+
+.component1 {
+    text-align: center;
+  }
+  
+  .component1 h1 {
+    color: #333;
+  }
+  
+  .component1 img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px; /* Ajuste conforme necessário */
+  }
+  

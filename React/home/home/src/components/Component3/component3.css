@@ -1,0 +1,19 @@
+/* Component3.css */
+
+.component3 {
+  margin-top: 20px; /* Ajuste conforme necessário */
+}
+
+.component3 .slick-slide {
+  text-align: center;
+}
+
+.component3 .slick-prev,
+.component3 .slick-next {
+  color: #333;
+}
+
+.component3 img {
+  max-width: 100%;
+  height: auto;
+}

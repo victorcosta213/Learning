@@ -1,0 +1,15 @@
+/* Component2.css */
+
+.component2 {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .subcomponent1,
+  .subcomponent2 {
+    width: 48%; /* Ajuste conforme necessário */
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
